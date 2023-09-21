@@ -1,12 +1,12 @@
 // variables are containers for storing data values
 
+// Data Types and Constraints
 // int - stores integer numbers
 // float - stores floating point numbers - size 4 bytes - 7 decimal digits precision - must add suffix f at end of value
 // double - stores floating point numbers - size 8 bytes - 15 decimal digits precision
 // char - stores single characters
 // string - stores text
 // bool - Boolean - true or false
-
 // const - declare constant variable - unchangeable
 
 #include <iostream>
